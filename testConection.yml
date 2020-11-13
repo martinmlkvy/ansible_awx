@@ -1,6 +1,5 @@
 
 - name: Testing conectivity
-  hosts: suricata
   remote_user: root
 
   tasks:
